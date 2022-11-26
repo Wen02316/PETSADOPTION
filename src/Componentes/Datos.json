@@ -1,0 +1,43 @@
+[
+    {
+        "nombre": "Black Adam",
+        "descripcion": "Unos arqueólogos liberan de su tumba a Black Adam, quien llevaba 5000 años preso tras haber recibido los poderes de los dioses. De nuevo entre los humanos, Black Adam se dispone a imponer su justicia, muy diferente a la del mundo en el que despertó.",
+        "cantidad": 1,
+        "imagen":"./Recursos/img1.jpg",
+        "usuario":"Luis",
+        "valor":"Alto"
+
+    },
+    {
+        "nombre": "Wakanda por siempre",
+        "descripcion": "Una secuela que seguirá explorando el incomparable mundo de Wakanda y todos los ricos y variados personajes presentados en la película de 2018.",
+        "cantidad": 2,
+        "imagen":"./Recursos/img2.jpg",
+        "usuario":"Ariana",
+        "valor":"Alto"
+    },
+    {
+        "nombre": "Wonder Woman",
+        "descripcion": "Diana, hija de dioses y princesa de las amazonas, nunca ha salido de su isla. Un día, en el contexto de la Primera Guerra Mundial, un piloto americano se estrella en su isla y Diana salva su vida; el piloto le explica que se está desarrollando una gran guerra que puede devastar el mundo, y Diana parte a la batalla.",
+        "cantidad": 3,
+        "imagen":"./Recursos/img3.jpg",
+        "responsable":"Ariana",
+        "Prioridad":"Baja"
+    },
+    {
+        "nombre": "Superman Returns",
+        "descripcion": "Mientras un viejo enemigo planea destruirlo de una vez por todas, el Hombre de Acero regresa después de una larga ausencia a un mundo completamente diferente. Lois Lane ha continuado su vida, y la sociedad ha aprendido a sobrevivir sin él. Superman debe encontrar la forma de regresar con ella y encontrar su lugar en un mundo que quizás ya no lo necesite.",
+        "cantidad": 6,
+        "imagen":"./Recursos/img4.jpg",
+        "usuario":"Andres",
+        "valor":"Bajo"
+    },
+    {
+        "nombre": "Batman: el caballero de la noche",
+        "descripcion": "Batman tiene que mantener el equilibrio entre el heroísmo y el vigilantismo para pelear contra un vil criminal conocido como el Guasón, que pretende sumir Ciudad Gótica en la anarquía.",
+        "cantidad": 5,
+        "imagen":"./Recursos/img5.jpg",
+        "usuario":"Maria",
+        "valor":"Medio"
+    }
+]
